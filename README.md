@@ -1,2 +1,2 @@
-# openbook.github.io
+# Openbook
 openbook
